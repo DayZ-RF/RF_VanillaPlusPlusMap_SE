@@ -1,0 +1,1 @@
+class RF_VanillaPlusPlusMap_SE: Managed {}
